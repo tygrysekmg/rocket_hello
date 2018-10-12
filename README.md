@@ -1,2 +1,2 @@
 # rocket_hello
-follow image rust.png
+follow image rocket.png

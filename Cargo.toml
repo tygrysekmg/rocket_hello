@@ -1,0 +1,10 @@
+[package]
+name = "hello-rocket"
+version = "0.1.0"
+authors = ["gmilczuk <w.luk1972@wp.pl>"]
+edition = "2018"
+
+[dependencies]
+
+rocket = "0.3.17"
+rocket_codegen = "0.3.17"
